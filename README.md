@@ -12,11 +12,15 @@ where x1 is vehicle length and x2 ground clearance.
 
 # Deliverable 2
 ## Summary Statistics on Suspension Coils
-For this Deliverable 2, I imported the data from Suspension_Coils.csv and I created the data by using R functions summarize() and groupby(). The PSI stats for all the database were:
+* For this Deliverable 2, I imported the data from Suspension_Coils.csv and I created the data by using R functions summarize() and groupby(). The PSI stats for all the database were:
+
 ![image](https://user-images.githubusercontent.com/105985796/192200861-37c28f16-26e6-4ace-a761-24c44d2b2612.png)
-the PSI stats by lot using summarize() and groupby() were:
+
+* the PSI stats by lot using summarize() and groupby() were:
+
 ![image](https://user-images.githubusercontent.com/105985796/192201038-084940d3-373c-492f-89db-a88ddf18b00b.png)
-The design requirements for the MechaCar Suspension Coils show that the variance of the Suspension Coils cannot go over the limit of 100 pounds per square inch. Even though the all manufacturing lots in total, Lot 1 and Lot 2 met the design requirement, the Lot3 was not able to because its variance was 170, well above the variance of 100 psi established by the desgin requirements.
+
+* The design requirements for the MechaCar Suspension Coils show that the variance of the Suspension Coils cannot go over the limit of 100 pounds per square inch. Even though the all manufacturing lots in total, Lot 1 and Lot 2 met the design requirement, the Lot3 was not able to because its variance was 170, well above the variance of 100 psi established by the desgin requirements.
 
 # Deliverable 3
 ## T-Test on Suspension Coils

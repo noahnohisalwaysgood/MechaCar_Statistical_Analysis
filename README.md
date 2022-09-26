@@ -6,7 +6,8 @@ In this project, I am going to use multiple linear regression to predict which m
 Secondly, I used the Im() code in RStudio for this linear regression, using all the variables in their dataframe. The result gave me the following data: p-value = 5.35 e-11, the number is less than 0.05, so I can reject the null hypothesis and prove that there is a correlation between the car's metrics and mpg.
 
 # y = -104 + 6.24x1 + 3.54 x2
-where x1 is vehicle length and x2 ground clearance.
+* x1 is vehicle length and x2 ground clearance.
+
 ![image](https://user-images.githubusercontent.com/105985796/192198918-45466396-6b74-4152-87be-eb0a2622bbc5.png)
 
 
